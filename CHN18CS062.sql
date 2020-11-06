@@ -22,6 +22,7 @@ ALTER TABLE student DROP COLUMN marks;
 RENAME TABLE student TO students;
 
 #f
+k
 TRUNCATE TABLE students;
 
 #g
